@@ -9,4 +9,3 @@ pandas
 requests
 unstructured
 python-magic
-python-magic-bin
